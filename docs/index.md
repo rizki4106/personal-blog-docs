@@ -1,4 +1,4 @@
-# Welcome onboard
+# Welcome
 This is the docummentation for bloging platform
 ## Requirements
 * Admin Requirements
