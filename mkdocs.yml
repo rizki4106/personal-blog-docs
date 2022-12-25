@@ -1,0 +1,7 @@
+site_name: rizki.real docs
+theme:
+  name: material
+  features:
+    - navigation.sections
+  palette:
+    scheme: default
